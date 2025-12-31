@@ -51,3 +51,10 @@ Key Comparison Table
 ## Current Recommendation (2025):
 * For new projects: Use ethers.js (v6). It's the de facto standard now, especially post-Web3.js sunset.
 * For legacy projects on Web3.js: Consider migrating to ethers.js (migration guides exist) or viem for better long-term support.
+
+## Resources
+
+* Ethers.js Documentation: https://docs.ethers.org/v6/
+* Ethers.js GitHub: https://github.com/ethers-io/ethers.js
+* Web3.js Sunset Announcement: https://blog.chainsafe.io/web3-js-sunset/
+* Migration Guides: Search for "migrate web3.js to ethers.js" for community tutorials.
